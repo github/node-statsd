@@ -1,3 +1,5 @@
+**NOTE: This fork is not supported or updated by GitHub. See https://github.com/sivy/node-statsd**
+
 # node-statsd
 
 A node.js client for [Etsy](http://etsy.com)'s [StatsD](https://github.com/etsy/statsd) server.
